@@ -1,0 +1,122 @@
+[
+    {
+      "model": "digestapi.book",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "cover_image": "https://example.com/mockingbird.jpg",
+        "isbn": "9780446310789",
+        "created_at": "2023-06-01T10:30:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "title": "1984",
+        "author": "George Orwell",
+        "cover_image": "https://example.com/1984.jpg",
+        "isbn": "9780451524935",
+        "created_at": "2023-06-02T15:45:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 3,
+      "fields": {
+        "user": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "cover_image": "https://example.com/gatsby.jpg",
+        "isbn": "9780743273565",
+        "created_at": "2023-06-03T09:15:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 4,
+      "fields": {
+        "user": 3,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "cover_image": "https://example.com/pride.jpg",
+        "isbn": "9780141439513",
+        "created_at": "2023-06-04T12:00:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 5,
+      "fields": {
+        "user": 2,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "cover_image": "https://example.com/catcher.jpg",
+        "isbn": "9780316769488",
+        "created_at": "2023-06-05T16:30:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 6,
+      "fields": {
+        "user": 1,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "cover_image": "https://example.com/lotr.jpg",
+        "isbn": "9780618640157",
+        "created_at": "2023-06-06T10:45:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 7,
+      "fields": {
+        "user": 3,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "cover_image": "https://example.com/alchemist.jpg",
+        "isbn": "9780061122416",
+        "created_at": "2023-06-07T14:15:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 8,
+      "fields": {
+        "user": 2,
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "cover_image": "https://example.com/hunger.jpg",
+        "isbn": "9780439023528",
+        "created_at": "2023-06-08T09:30:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 9,
+      "fields": {
+        "user": 1,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "cover_image": "https://example.com/davinci.jpg",
+        "isbn": "9780307277671",
+        "created_at": "2023-06-09T13:00:00Z"
+      }
+    },
+    {
+      "model": "digestapi.book",
+      "pk": 10,
+      "fields": {
+        "user": 3,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "cover_image": "https://example.com/potter.jpg",
+        "isbn": "9780590353427",
+        "created_at": "2023-06-10T11:20:00Z"
+      }
+    }
+  ]
